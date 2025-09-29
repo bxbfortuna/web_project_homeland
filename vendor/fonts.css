@@ -2,12 +2,6 @@
   src: url(../vendor/fonts/Inter/web/InterDisplay-Regular.woff2) format("woff2");
   src: url(../vendor/fonts/Inter/InterVariable.ttf) format("truetype");
   font-family: "Inter";
-  font-weight: auto;
-}
-@font-face {
-  src: url(../vendor/fonts/Inter/web/InterDisplay-Regular.woff2) format("woff2");
-  src: url(../vendor/fonts/Inter/InterVariable.ttf) format("truetype");
-  font-family: "Inter";
   font-weight: 400;
 }
 @font-face {
